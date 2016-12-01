@@ -23,13 +23,17 @@ a.forEach(function(element) {
 
 ###Parameters
 **callback**
-Function to execute for each element, taking three arguments:
-    - `currentValue`        
-        The current element being processed in the array.    
-    - `index`
-        The index of the current element being processed in the array.
-    - `array`
-        The array that forEach() is being applied to.
+Function to execute for each element, taking three arguments:    
+    
+- `currentValue`        
+     - The current element being processed in the array.    
+    
+- `index`
+     - The index of the current element being processed in the array.
+    
+- `array`
+     - The array that forEach() is being applied to.      
+
 **thisArg**  `Optional`
 > Value to use as this(i.e reference Object) when executing callback.
 
