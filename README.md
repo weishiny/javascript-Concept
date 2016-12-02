@@ -5,6 +5,7 @@ Some reference for syntax and concept of javascript
 - **Array**
   - [concat](Array/Concat.md)
   - [forEach](Array/forEach.md)
+- [Arrow Function](Arrow-Function/ArrowFunc.md)  
 - [Currying](Currying/Currying.md)
 - [Object.assign()](Object-Assign/Assign.md)
 - [Spread Operator](Spread-Operator/Spread.md)
